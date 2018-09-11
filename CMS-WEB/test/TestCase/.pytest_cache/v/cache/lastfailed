@@ -1,0 +1,13 @@
+{
+  "Login_test.py::TestLogin::()": true,
+  "test_01.py::TestLogin::()::test_case01[data011]": true,
+  "test_01.py::TestLogin::()::test_case02[data020]": true,
+  "test_01.py::TestLogin::()::test_case02[data021]": true,
+  "test_01.py::TestLogin::()::test_case02[data022]": true,
+  "test_01.py::TestLogin::()::test_case02[data023]": true,
+  "test_Login.py::TestLogin::()::test_case01[data011]": true,
+  "test_Login.py::TestLogin::()::test_case02[data020]": true,
+  "test_Login.py::TestLogin::()::test_case02[data021]": true,
+  "test_Login.py::TestLogin::()::test_case02[data022]": true,
+  "test_Login.py::TestLogin::()::test_case02[data023]": true
+}
